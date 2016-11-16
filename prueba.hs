@@ -1,0 +1,1 @@
+sumaDies x = x+10
